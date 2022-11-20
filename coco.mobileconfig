@@ -37,7 +37,7 @@
 			<key>Precomposed</key>
 			<true/>
 			<key>URL</key>
-			<string>https://https.cocotweaks.net/</string>
+			<string>https.cocotweaks.net/</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
